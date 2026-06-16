@@ -1,0 +1,6 @@
+{
+  "name": "Rituel",
+  "description": "Un compagnon quotidien élégant réunissant un gestionnaire de tâches par fréquence, un journal d'humeur et de gratitude avec calendrier visuel, et un suivi d'abonnements intuitif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
